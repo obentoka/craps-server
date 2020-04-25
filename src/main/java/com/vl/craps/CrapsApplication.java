@@ -10,5 +10,4 @@ public class CrapsApplication {
 		SpringApplication.run(CrapsApplication.class, args);
 	}
 
-
 }
